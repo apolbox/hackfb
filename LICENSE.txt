@@ -1,0 +1,29 @@
+                    PERJANJIAN
+                HackFB version 1.0
+
+I. Dilarang memodifikasi kode sumber tanpa adanya
+izin dari pengembang HackFB.
+
+Jika terdapat pelanggaran atas Hak Cipta kepemilikan
+dan ketetepan kode sumber, akan dikenakan denda RP. 500.000
+
+Jika pelanggar tidak mau membayar denda, pengembang berhak
+untuk melaporkan pelanggar kejalur hukum dengan hukuman
+penjara maksimal 5 tahun.
+
+II. Dilarang menjual-belikan kode sumber tanpa adanya
+izin dari pembuat.
+
+Jika terdapat pelanggar yang menjual-belikan kode sumber
+maka akan dikenakan denda RP. 1.500.000.
+
+Jika pelanggar tidak mau membayar denda, pengembang berhak
+untuk melaporkan pelanggar kejalur hukum dengan hukuman
+penjara maksimal 10 tahun.
+
+Dengan membaca perjanjian ini berarti anda telah sepakat
+dan menyetujui perjanjian dari pengembang.
+
+
+Author : Ayus Irfang Filaras
+Since  : 13 Juli 2019
