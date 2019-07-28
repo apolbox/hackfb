@@ -21,5 +21,10 @@ dari kami.
     $ chmod +x ./install
     $ ./install
 
+Nanti akan muncul file baru bernama hackfb, untuk memulai program tulis perintah berikut:
+
+    $ chmod +x ./hackfb
+    $ ./hackfb
+
 Semoga berhasil dan bermanfaat untuk anda.
 
